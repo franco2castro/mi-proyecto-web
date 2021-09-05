@@ -1,0 +1,22 @@
+.navegacion ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    font-family: 'Roboto', sans-serif;
+}
+
+.link{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.background{
+    background-color: turquoise;
+    background-size: cover;
+    padding: 10vw;
+}
+
+.titulo{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
